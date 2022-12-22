@@ -42,7 +42,7 @@
 ![image](https://user-images.githubusercontent.com/89721794/209175714-1fa10bfb-4f9f-48cb-9381-2e366352b550.png)   
    
       - Order Confirm 버튼을 눌러 결제를 완료하면 주문 완료 창을 띄움
-<img src="https://user-images.githubusercontent.com/89721794/209175921-9f21df48-75e7-4a7d-a944-78bdbe2af374.png" width="400px" height="80px" title="px(300)" alt="Title"></img><br/>
+<img src="https://user-images.githubusercontent.com/89721794/209175921-9f21df48-75e7-4a7d-a944-78bdbe2af374.png" width="400px" height="150px" title="px(300)" alt="Title"></img><br/>
 
 
 
