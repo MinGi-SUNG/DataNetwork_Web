@@ -1,4 +1,5 @@
-## DataNetwork_Web Project
+## DataNetwork_TEAM Aighta Project
+### 데이터통신 웹페이지 제작 프로젝트 8조
 
 
 * 의류 쇼핑몰 웹사이트 Aighta
@@ -30,6 +31,7 @@
    
    - 장바구니
 ![image](https://user-images.githubusercontent.com/89721794/209172899-64db3216-ff43-40ea-b75b-c79617cfc908.png)   
+   
    
    - 상품 결제 페이지(배송지 주소 입력)
 ![image](https://user-images.githubusercontent.com/89721794/209172960-c6f77613-5098-459b-b48e-ff8d38cd0e35.png)
