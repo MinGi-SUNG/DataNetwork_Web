@@ -14,7 +14,7 @@
    - 회원가입   
       - Xampp 상의 MySQL을 데이터베이스로 사용하여 회원 정보 저장
 ![image](https://user-images.githubusercontent.com/89721794/209170884-b21211d0-b28b-4f1f-a8e8-98d658f7e681.png)
-<img src="https://user-images.githubusercontent.com/89721794/209170895-f84a3e43-4c8d-4fee-93ed-2757e094eb21.png" width="450px" height="150px" title="px(300)" alt="Title"></img><br/>   
+<img src="https://user-images.githubusercontent.com/89721794/209170895-f84a3e43-4c8d-4fee-93ed-2757e094eb21.png" width="400px" height="150px" title="px(300)" alt="Title"></img><br/>   
    
    - 로그인   
 ![image](https://user-images.githubusercontent.com/89721794/209171668-37e6f527-781e-491c-b09c-cf2fdf8fa885.png)
