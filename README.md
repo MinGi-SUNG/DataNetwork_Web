@@ -10,4 +10,4 @@
    
    - 회원가입   
 ![image](https://user-images.githubusercontent.com/89721794/209170884-b21211d0-b28b-4f1f-a8e8-98d658f7e681.png)
-![image](https://user-images.githubusercontent.com/89721794/209170895-f84a3e43-4c8d-4fee-93ed-2757e094eb21.png)
+<img src="https://user-images.githubusercontent.com/89721794/209170895-f84a3e43-4c8d-4fee-93ed-2757e094eb21.png" width="400px" height="200px" title="px(300)" alt="Title"></img><br/>
