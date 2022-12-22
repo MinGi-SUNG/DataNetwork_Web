@@ -18,6 +18,22 @@
    - 로그인   
 ![image](https://user-images.githubusercontent.com/89721794/209171668-37e6f527-781e-491c-b09c-cf2fdf8fa885.png)
 <img src="https://user-images.githubusercontent.com/89721794/209172349-06a4fd5c-63ae-48bf-a8c6-112b83c54b23.png" width="400px" height="80px" title="px(300)" alt="Title"></img><br/>  
+   
+   - 내 정보 조회
+![image](https://user-images.githubusercontent.com/89721794/209172598-1c27b5aa-e138-436a-8f37-87f51763b298.png)   
+   
+   - 상품 상세 정보 
+      - 상품 사이즈, 색상 등의 상세 정보 표시
+      - ADD TO CART 버튼으로 장바구니에 상품 추가
+![image](https://user-images.githubusercontent.com/89721794/209172692-bc7d52ec-6318-4080-b2b0-c495a5e8e2c7.png)   
+   
+   
+   - 장바구니
+![image](https://user-images.githubusercontent.com/89721794/209172899-64db3216-ff43-40ea-b75b-c79617cfc908.png)   
+   
+   - 상품 결제 페이지(배송지 주소 입력)
+![image](https://user-images.githubusercontent.com/89721794/209172960-c6f77613-5098-459b-b48e-ff8d38cd0e35.png)
+
 
 
 
